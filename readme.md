@@ -1,3 +1,5 @@
+# Unsupervised learnig: Clustering on handwritten digits
+
 The goal of the assignment was to perform classification over the Semeion Handwritten Digit data set using:
 - Latent Class Analysis (LCA);
 - Mean Shift;
